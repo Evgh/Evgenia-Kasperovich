@@ -1,6 +1,9 @@
 ﻿using ConsoleApp1;
 using System.Text;
 
+// learnin git errorssssssssssssssssssssssssssss 
+
+
 var strB = new StringBuilder();// 1
 
 strB.Append("");
